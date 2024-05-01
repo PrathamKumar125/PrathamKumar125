@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing Bachelor of Technology in Artificial Intelligence and Data Science from University of School of Automation and Robotics. I am Developer at SDC USS GGSIPU and Intel oneAPI student club.
+I am pursuing Bachelor of Technology in Artificial Intelligence and Data Science from University of School of Automation and Robotics. I am Developer at Intel oneAPI student club.
 <br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-kumar-6a0b3a243) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prathamkumar625) <br/>
