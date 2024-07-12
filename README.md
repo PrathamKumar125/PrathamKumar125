@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am pursuing Bachelor of Technology in Artificial Intelligence and Data Science from University of School of Automation and Robotics. I am Developer at Intel oneAPI student club.
+I am a Bachelor of Technology student specializing in Artificial Intelligence and Machine Learning at Guru Gobind Singh Indraprastha University, with a CGPA of 8.7. My technical expertise spans various programming languages, including C/C++, Python, Java, and R, and I am proficient in libraries such as Tensorflow, Keras, Scikit-learn, and Huggingface. My key projects include developing an NLP-based multi-document query system, an SMS spam detection model, and an AI-powered plagiarism detector. I have hands-on experience with Kubernetes, Docker, and CI/CD pipelines.
+
+I have contributed to open source projects through GSSoC and Hacktoberfest, mentored in GSSoC 2024, and organized large-scale workshops and competitions as part of the Intel oneAPI Students Club. My core interests lie in Data Science, Machine Learning, NLP, Generative AI, and MLOps. I am passionate about leveraging AI to solve real-world problems and continuously improving my skills through self-learning and practical experience.
 <br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-kumar-6a0b3a243) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prathamkumar625) <br/>
